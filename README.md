@@ -1,6 +1,6 @@
 # CR-6Se-Max-OrcaSlicer-profile
 working profile for Creality CR 6 SE and CR 6 Max printers for Orca Slicer and The future relase of Bambu Studios.
-If you have installed a previous verison of this remove that folder and file for your Orcaslicer Directory Just the file and folder for this profile for Cr-6 se and Cr-6 Max
+If you have installed a previous verison of this remove that folder and file from your Orcaslicer Directory Just the file and folder for this profile for Cr-6 se and Cr-6 Max
 How to install
 1. Extract the zip file
 2. install the file and folder to the directory that you have orcaslicer
