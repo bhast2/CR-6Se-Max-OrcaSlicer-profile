@@ -21,7 +21,7 @@ Once inside the "profiles" folder this is where you add the files and folder for
 ![My Image](Install%20Guide%20Images/Step3.png)
 
 Step 4
-Open OrcaSlicer ( if it is the first time just run to the config) if not the first time click on the gear in the top left area so you can access your newly install profiles.
+Open OrcaSlicer ( if it is the first time just run to the config) if not the first time click on the gear in the top left area so you can access your newly installed profiles.
 ![My Image](Install%20Guide%20Images/Step4.png)
 
 Step 5
