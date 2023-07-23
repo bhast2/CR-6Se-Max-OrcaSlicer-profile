@@ -25,7 +25,7 @@ Open OrcaSlicer ( if it is the first time just run to the config) if not the fir
 ![My Image](Install%20Guide%20Images/Step4.png)
 
 Step 5
-Once the profile screen popsup stroll down til you see the CR-6 profiles and put check marks in the nozzles you want to use
+Once the profile screen popsup scroll down til you see the CR-6 profiles and put check marks in the nozzles you want to use
 ![My Image](Install%20Guide%20Images/Step5.png)
 
 Thats it now you have your profiles working just use the dropdown menu for the printer profiles to access them.
