@@ -5,7 +5,7 @@ How to install
 1. Extract the zip file
 2. install the file and folder to the directory that you have orcaslicer
 3. Don't install the folder Install Guide Images ( that is just to help you install this profile)
-4. Only install the follow files/folder  Creality CR-6.json (File) and the Creality CR-6 folder
+4. Only install the follow files/folder  Creality CR-6.json (File) and the Creality CR-6 (folder)
 
 
 Step 1
