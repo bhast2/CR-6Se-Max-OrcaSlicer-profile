@@ -14,10 +14,10 @@
     "1.0"
   ],
   "printable_area": [
-    "5x0",
-    "230x0",
-    "230x235",
-    "5x235"
+   "5x5",
+    "395x5",
+    "395x395",
+    "5x395"
   ],
   "printable_height": "250",
   "nozzle_type": "undefine",
